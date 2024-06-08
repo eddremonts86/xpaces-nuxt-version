@@ -1,0 +1,9 @@
+{
+    "domain": "aaa-segpacto.eu.auth0.com",
+    "clientId": "EzsjDsoj3t3X4a0caugmykN1dfVcIfHb",
+    "audience": "http://localhost:3001",
+    "spacesXApi": "https://my-spaces-backend-3fcc77037262.herokuapp.com",
+    "redirectUri": "http://localhost:3000",
+    "googleMapKey":"AIzaSyAS8lICZwXWWoL8UiwxXP4dG29UzSdvfAU"
+}
+

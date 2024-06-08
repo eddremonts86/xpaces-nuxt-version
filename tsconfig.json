@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "Node"
+  },
+  "extends": "./.nuxt/tsconfig.json"
+}
+// https://nuxt.com/docs/guide/concepts/typescript
+/*
+{
+  "compilerOptions": {
+    "moduleResolution": "NodeNext",
+    "module": "NodeNext",
+    "target": "ESNext",
+    "types": ["vite/client"]
+  },
+  "extends": "./.nuxt/tsconfig.json",
+  "include": ["./** /*", "node_modules/vue/dist/vue.d.ts"]
+}
+*/
